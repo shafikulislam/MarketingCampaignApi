@@ -48,3 +48,4 @@ D:\Anik\Personal\Programming Practice\HackerRank\MarketingCampaign\MarketingCamp
 D:\Anik\Personal\Programming Practice\HackerRank\MarketingCampaign\MarketingCampaign\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Anik\Personal\Programming Practice\HackerRank\MarketingCampaign\MarketingCampaign\obj\Debug\MarketingCampaign.dll
 D:\Anik\Personal\Programming Practice\HackerRank\MarketingCampaign\MarketingCampaign\obj\Debug\MarketingCampaign.pdb
+D:\Anik\Personal\Programming Practice\HackerRank\MarketingCampaign\MarketingCampaign\obj\Debug\MarketingCampaign.csprojResolveAssemblyReference.cache
